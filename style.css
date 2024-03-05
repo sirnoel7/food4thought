@@ -1,0 +1,19 @@
+h1 {
+    color:green;
+    text-align: center;
+text-orientation: sideways-right;
+background-color: black;
+}
+
+p {
+    color:brown;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/minimalist-white-circuit-tech-background_23-2148386605.jpg);
+    width:fit-content;
+}
+.img {
+    width: 200px;
+    
+}
